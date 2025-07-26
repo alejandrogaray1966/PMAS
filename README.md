@@ -21,5 +21,6 @@ P-MAS Cooperative
 - Los Usuarios ...
 
 ## Lema
+“Desarrollo con estructura, enfoque y soluciones eficientes.”
 
 <!-- Fecha de creación: 25/07/25 -->  
