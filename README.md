@@ -1,6 +1,9 @@
 # PMAS
 P-MAS Cooperative
 
+## Logo Institucional
+<img src="img/logo.png" width="200" height="150">
+
 ## Integrantes
 |DNI           |Apellido       |Nombre       |
 |:-------------|:-------------|:-------------|
@@ -17,7 +20,6 @@ P-MAS Cooperative
 - Los Proyectos ...  
 - Los Usuarios ...
 
-## Logo Institucional
-![Foto del logo](img/logo.png)
-<img src="img/logo.png" width="200" height="150">
+## Lema
+
 <!-- Fecha de creación: 25/07/25 -->  
