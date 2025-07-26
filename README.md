@@ -19,5 +19,5 @@ P-MAS Cooperative
 
 ## Logo Institucional
 ![Foto del logo](img/logo.png)
-
+<img src="img/logo.png" width="200" height="150">
 <!-- Fecha de creación: 25/07/25 -->  
